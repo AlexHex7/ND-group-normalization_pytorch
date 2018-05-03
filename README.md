@@ -19,12 +19,12 @@
 ## Visualization of Loss
 - Train loss of batch size 128.
 
-<center>![](loss_record/128_train_loss.png)</center>
+![](loss_record/128_train_loss.png)
 
 - Test loss of batch size 128.
 
-<center>![](loss_record/128_test_loss.png)</center>
+![](loss_record/128_test_loss.png)
 
 - Test loss of batch size 2.
 
-<center>![](loss_record/2_test_loss.png)</center>
+![](loss_record/2_test_loss.png)
