@@ -17,11 +17,14 @@
 - pytorch 0.4.0
 
 ## Visualization of Loss
-1. Train loss of batch size 128.
+- Train loss of batch size 128.
+
 ![](loss_record/128_train_loss.png)
 
-2. Test loss of batch size 128.
+- Test loss of batch size 128.
+
 ![](loss_record/128_test_loss.png)
 
-3. Test loss of batch size 2.
+- Test loss of batch size 2.
+
 ![](loss_record/2_test_loss.png)
